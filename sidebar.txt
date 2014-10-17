@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[unr:home|Door43 (unr)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-unr|d43-unr repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-unr/archive/master.zip|d43-unr.zip]]
+
+**Recent Changes**
+{{changes>ns = unr}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/unr|Ethnologue data]]
+
